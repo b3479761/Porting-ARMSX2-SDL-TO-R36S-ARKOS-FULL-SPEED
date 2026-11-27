@@ -1,6 +1,11 @@
-Download pre-release alpha build, link below
-https://workupload.com/file/7YFzgRrGjjZ
-https://mirroruploadx.com/f/65e3bp8y2vpk
+This is the build that is working much better, it is also AI slop but it is tested by me personally and it works to a point where I think I can accept, Download link in the line below:
+After Prerelease build, fixed all the buggy text and errors due to typo!
+https://workupload.com/file/HJg8sn7NFzj
+
+Do not download this AI generated SLOP, it cook my consoles too, use newer one instead!
+~~Download pre-release alpha build, link below~~
+~~https://workupload.com/file/7YFzgRrGjjZ~~
+~~https://mirroruploadx.com/f/65e3bp8y2vpk~~
 
 ==========
 important notes
