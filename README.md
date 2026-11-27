@@ -1,4 +1,22 @@
 ==========
+important notes
+==========
+[Hotkeys]
+OpenPauseMenu = SDL-0/Back & SDL-0/X
+ShutdownVM = SDL-0/Back & SDL-0/Start
+SaveStateToSlot = SDL-0/Back & SDL-0/RightShoulder
+LoadStateFromSlot = SDL-0/Back & SDL-0/LeftShoulder
+NextSaveStateSlot = SDL-0/Back & SDL-0/DPadRight
+PreviousSaveStateSlot = SDL-0/Back & SDL-0/DPadLeft
+EOF
+
+Please do not put system into sleep mode when running the game, due to the bug of drivers not working well with sleep mode, to avoid system frozen the next time it is wake up!
+
+copy the entire folder to /roms/ports/ or /roms2/ports/, run the armsx2-R36SROM1 for /roms/ports system and vice verse, armsx2-R36SmyromsROM1 is when you decide to run your own rom copy that is put inside /roms/ports/R36Scfw/myroms/rom.iso, yes, you must rename your rom copy to rom.iso!
+
+Enjoy the game session!
+
+==========
 introduction
 
 ==========
